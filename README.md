@@ -17,3 +17,5 @@ Projeto de site para análise dermatológica com Java e Maven
 1. Clone o repositório:
 ```bash
 git clone https://github.com/GiselleCasanova/SkinVisionPro.git
+
+> ⚠️ Projeto em desenvolvimento. Algumas funcionalidades ainda estão sendo implementadas.
